@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "891331373",
+    "project_id": "vegasupportapp",
+    "storage_bucket": "vegasupportapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891331373:android:f7f6013b27db74fab2e9a4",
+        "android_client_info": {
+          "package_name": "com.example.companyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891331373-q40q2a8cou87mcith0l3tfd1nn7m887g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmV5vSBMpRAtGvQoLtX5bCNJKXASEnrdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891331373-q40q2a8cou87mcith0l3tfd1nn7m887g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891331373:android:e23593b6f545fcf0b2e9a4",
+        "android_client_info": {
+          "package_name": "com.example.vegasupportapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891331373-q40q2a8cou87mcith0l3tfd1nn7m887g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmV5vSBMpRAtGvQoLtX5bCNJKXASEnrdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891331373-q40q2a8cou87mcith0l3tfd1nn7m887g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
